@@ -31,19 +31,19 @@ these are going to be essentially the same, although, it is important to know di
 Generating a block is the less complex of the options, as the information is filled only with combo boxes,
 each area has different numbers and each number different varieties as well.
 
-<img src="https://user-images.githubusercontent.com/43209755/78462650-9f207600-7699-11ea-9171-e64d9cb1d6d2.png" width="560">
+<img src="https://user-images.githubusercontent.com/43209755/78615809-10962b00-7838-11ea-9ed0-66c317021738.png" width="520">
 
 #### Generating a Cutter
 Generating a cutter will request first and family name(s), the user can only type letters and spaces. The 
 ID will allow an ID of 8 characters long, also, only numbers are allowed in this space. 
 
-<img src="https://user-images.githubusercontent.com/43209755/78462650-9f207600-7699-11ea-9171-e64d9cb1d6d2.png" width="560">
+<img src="https://user-images.githubusercontent.com/43209755/78615808-0ffd9480-7838-11ea-9910-2b5dd96f197a.png" width="520">
 
 #### Generating an Area
 Generating an area request two spaces, an ID, which receives a number of maximum 8 characters long and a type, 
 which receives an option, these options are shown in the image.
 
-<img src="https://user-images.githubusercontent.com/43209755/78462647-9def4900-7699-11ea-8ed5-c8492d52f177.png" width="560">
+<img src="https://user-images.githubusercontent.com/43209755/78615806-0ecc6780-7838-11ea-9d15-2d6534aef095.png" width="520">
 
 
 ### Software structure
