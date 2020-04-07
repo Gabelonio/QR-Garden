@@ -111,9 +111,9 @@ which can be opened with Eclipse or with a text editor for each .java document.
 
 The last two sources (7 and 8) were referenced libraries for the project's correct working.
 
-Reference 3,7 and 8 are property of the MVN Repository.
+Reference 3, 7 and 8 are property of the MVN Repository.
 
-Reference 1,2,4,5 and 6 are property of Oracle.
+Reference 1, 2, 4, 5 and 6 are property of Oracle.
 
 ### Execution
 By cloning this repository, the user will only has to double click the "QR Garden" jar file and the software will deploy.
