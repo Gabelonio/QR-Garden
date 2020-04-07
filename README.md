@@ -51,11 +51,13 @@ The software uses only a language which is Java.
 
 #### Visualization and its interaction 
 The interface shown previously uses the Java libraries Java.awt and Javax.swing.
+
 Java.awt is used in this project for:
 * Color configuration.
 * Fonts used.
 * Action listeners.
 * Action events.
+
 Javax.swing is used in this project for:
 * Combo boxes usage.
 * Buttons usage.
