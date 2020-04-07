@@ -110,7 +110,9 @@ which can be opened with Eclipse or with a text editor for each .java document.
 8. zxing-core-2.0.jar : https://mvnrepository.com/artifact/com.google.zxing/core/2.0.
 
 The last two sources (7 and 8) were referenced libraries for the project's correct working.
+
 Reference 3,7 and 8 are property of the MVN Repository.
+
 Reference 1,2,4,5 and 6 are property of Oracle.
 
 ### Execution
