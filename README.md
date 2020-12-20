@@ -47,7 +47,7 @@ which receives an option, these options are shown in the image.
 
 
 ### Software structure
-The software uses only a language which is Java.
+The software uses Java for every component.
 
 #### Visualization and its interaction 
 The interface shown previously uses the Java libraries Java.awt and Javax.swing.
